@@ -19,5 +19,5 @@ Javier Teillier, Ariel Veliz, Daniel Saez, Julio Soto
 - Ariel Pinto
 - Juan Barraza
 - Claudio Galleguillos
-- Rodrigo Navarro 
+- Rodrigo Navarro -
 
